@@ -1,0 +1,23 @@
+{
+	"colors": {
+		"material:red": [203, "f44336"],
+		"material:pink": [161, "e91e63"],
+		"material:purple": [127, "9c27b0"],
+		"material:deeppurple": [55, "673ab7"],
+		"material:indigo": [62, "3f51b5"],
+		"material:blue": [33, "2196f3"],
+		"material:lightblue": [39, "03A9F4"],
+		"material:cyan": [38, "00bcd4"],
+		"material:teal": [30, "009688"],
+		"material:green": [71, "4caf50"],
+		"material:lightgreen": [113, "8bc34a"],
+		"material:lime": [184, "cddc39"],
+		"material:yellow": [227, "ffeb3b"],
+		"material:amber": [214, "ffc107"],
+		"material:orange": [208, "ff9800"],
+		"material:deeporange": [202, "ff5722"],
+		"material:brown": [95, "795548"],
+		"material:grey": [247, "9e9e9e"],
+		"material:bluegrey": [67, "607d8b"]
+	}
+}
